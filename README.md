@@ -1,7 +1,7 @@
 # Aerethios Website
 Everything to know about my Universe
 
-https://ryuggo.github.io/aerethios/index.html
+https://ryuggo.github.io/Aerethios/
 
 
 # Getting Started with Create React App
