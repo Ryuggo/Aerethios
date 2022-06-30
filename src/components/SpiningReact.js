@@ -19,7 +19,7 @@ function SpiningReact() {
         >
           Learn React
         </a>
-        <p>{datetime.toDateString()} - Random : {Math.floor(Math.random() * 100)}</p>
+        <p>{datetime.toDateString()} - Random : <b className="rand">{Math.floor(Math.random() * 100)}</b></p>
       </header>
     </div>
   );

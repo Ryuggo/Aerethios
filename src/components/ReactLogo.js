@@ -2,13 +2,13 @@ import "./SpiningReact.css";
 
 function ReactLogo(props) {
     const tmp = () => {
-        console.log("test");
+        document.getElementsByClassName("rand")[0].innerHTML = Math.floor(Math.random() * 100);
     }
-
+/*
     function fct2() {
         console.log("test222");
     }
-
+*/
     return (
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.9 595.3" className={props.className}>
             <g fill="#61DAFB" onClick={tmp}>
