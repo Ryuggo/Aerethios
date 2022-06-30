@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/Aerethios/static/css/main.073c9b0a.css",
-    "main.js": "/Aerethios/static/js/main.83dc700d.js",
-    "static/js/787.68f1ff53.chunk.js": "/Aerethios/static/js/787.68f1ff53.chunk.js",
+    "main.css": "/Aerethios/static/css/main.5d64dfac.css",
+    "main.js": "/Aerethios/static/js/main.69a5d436.js",
     "static/media/logo.svg": "/Aerethios/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Aerethios/index.html",
-    "main.073c9b0a.css.map": "/Aerethios/static/css/main.073c9b0a.css.map",
-    "main.83dc700d.js.map": "/Aerethios/static/js/main.83dc700d.js.map",
-    "787.68f1ff53.chunk.js.map": "/Aerethios/static/js/787.68f1ff53.chunk.js.map"
+    "main.5d64dfac.css.map": "/Aerethios/static/css/main.5d64dfac.css.map",
+    "main.69a5d436.js.map": "/Aerethios/static/js/main.69a5d436.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.83dc700d.js"
+    "static/css/main.5d64dfac.css",
+    "static/js/main.69a5d436.js"
   ]
 }
