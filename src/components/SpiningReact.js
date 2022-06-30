@@ -1,4 +1,4 @@
-import logo from "../logo.svg";
+import ReactLogo from "./ReactLogo";
 import "./SpiningReact.css";
 
 function SpiningReact() {
@@ -7,7 +7,7 @@ function SpiningReact() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <ReactLogo className="App-logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
