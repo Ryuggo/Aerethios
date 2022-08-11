@@ -1,0 +1,40 @@
+/*
+.App {
+  text-align: center;
+}
+*/
+.App-logo .g {
+  /*
+  stroke-dasharray: 700;
+  stroke-dashoffset: 700;
+  stroke-linecap: butt;
+  */
+  -webkit-transition: all 2s ease-out;
+  -moz-transition: all 2s ease-out;
+  -ms-transition: all 2s ease-out;
+  -o-transition: all 2s ease-out;
+  transition: all 2s ease-out;
+}
+.App-logo .g:hover {
+  fill: lightblue;
+  stroke-dashoffset: 0;
+  stroke-width: 10;
+  cursor: pointer;
+}
+
+.App-body {
+  background: url("../img/Aerethios2.jpg") no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  background-position: left;
+
+  /* Full height */
+  height: 100%;
+}
+
+.App-link {
+  color: #61dafb;
+}
