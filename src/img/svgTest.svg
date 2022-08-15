@@ -1,8 +1,0 @@
-<svg id="circle">
-    <g>
-        <circle cx="125" cy="125" r="100" stroke="darkblue" stroke-width="3" fill="green" />
-        <a xlink:href="https://www.google.co.uk/" target="_top">
-            <text x="50%" y="50%" style="text-anchor: middle">google</text>
-        </a>
-    </g>
-</svg>
