@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Aerethios/static/css/main.a08f325a.css",
-    "main.js": "/Aerethios/static/js/main.e5842daa.js",
+    "main.css": "/Aerethios/static/css/main.d63fa314.css",
+    "main.js": "/Aerethios/static/js/main.2a490f3c.js",
     "static/media/Aerethios2.jpg": "/Aerethios/static/media/Aerethios2.919594f020943b62c78e.jpg",
     "index.html": "/Aerethios/index.html",
-    "main.a08f325a.css.map": "/Aerethios/static/css/main.a08f325a.css.map",
-    "main.e5842daa.js.map": "/Aerethios/static/js/main.e5842daa.js.map"
+    "main.d63fa314.css.map": "/Aerethios/static/css/main.d63fa314.css.map",
+    "main.2a490f3c.js.map": "/Aerethios/static/js/main.2a490f3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a08f325a.css",
-    "static/js/main.e5842daa.js"
+    "static/css/main.d63fa314.css",
+    "static/js/main.2a490f3c.js"
   ]
 }
